@@ -1,14 +1,1 @@
-Todo algoritmo consta de tres secciones principales: Entrada: Es la introducción de datos para ser transformados. Proceso: Es el conjunto de operaciones a realizar para dar solución al problema. Salida: Son los resultados obtenidos a través del proceso.
-Algoritmos computacionales. Un algoritmo cuya resolución depende del cálculo, y que puede ser desarrollado por una calculadora o computadora sin dificultades.
-Algoritmos no computacionales. Aquellos que no requieren de los procesos de un computador para resolverse, o cuyos pasos son exclusivos para la resolución por parte de un ser humano.
-Algoritmos cualitativos. Se trata de un algoritmo en cuya resolución no intervienen cálculos numéricos, sino secuencias lógicas y/o formales.
-Algoritmos cuantitativos. Todo lo contrario, es un algoritmo que depende de cálculos matemáticos para dar con su resolución.
-Secuenciales. Los algoritmos operan en secuencia, debe procesarse uno a la vez.
-Precisos. Los algoritmos han de ser precisos en su abordaje del tema, es decir, no pueden ser ambiguos o subjetivos.
-Ordenados. Los algoritmos se deben establecer en la secuencia precisa y exacta para que su lectura tenga sentido y se resuelva el problema.
-Finitos. Toda secuencia de algoritmos ha de tener un fin determinado, no puede prolongarse hasta el infinito.
-Concretos. Todo algoritmo debe ofrecer un resultado en base a las funciones que cumple.
-Definidos. Un mismo algoritmo ante los mismos elementos de entrada (input) debe dar siempre los mismos resultados.
-
-
 
